@@ -1,0 +1,1107 @@
+﻿Log file open, 11/16/17 13:46:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2092257262) SRandInit(-2092257261).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.934370
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.16-18.46.50:158][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.16-18.46.50:158][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.16-18.46.50:395][  0]LogInit: Computer: DESKTOP-A38DQ21
+[2017.11.16-18.46.50:395][  0]LogInit: User: z1hwa
+[2017.11.16-18.46.50:395][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.11.16-18.46.50:395][  0]LogInit: High frequency timer resolution =2.338334 MHz
+[2017.11.16-18.46.50:396][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.11.16-18.46.50:396][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.16-18.46.50:396][  0]LogMemory: Process Physical Memory: 272.75 MB used, 272.75 MB peak
+[2017.11.16-18.46.50:396][  0]LogMemory: Process Virtual Memory: 269.21 MB used, 269.21 MB peak
+[2017.11.16-18.46.50:396][  0]LogMemory: Physical Memory: 3139.66 MB used,  4967.67 MB free, 8107.33 MB total
+[2017.11.16-18.46.50:396][  0]LogMemory: Virtual Memory: 644.80 MB used,  4967.67 MB free, 134217728.00 MB total
+[2017.11.16-18.46.52:729][  0]LogInit: Using OS detected language (en-US).
+[2017.11.16-18.46.52:729][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.16-18.46.53:155][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.16-18.46.54:437][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.16-18.47.09:818][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.16-18.47.09:846][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 5500' (Feature Level 11_0)
+[2017.11.16-18.47.09:846][  0]LogD3D11RHI:       128/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.11.16-18.47.09:851][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.16-18.47.09:851][  0]LogD3D11RHI:       0/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.16-18.47.09:851][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.16-18.47.09:877][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.16-18.47.09:878][  0]LogD3D11RHI:     GPU DeviceId: 0x1616 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.16-18.47.09:878][  0]LogWindows: EnumDisplayDevices:
+[2017.11.16-18.47.09:878][  0]LogWindows:    0. 'Intel(R) HD Graphics 5500' (P:1 D:1)
+[2017.11.16-18.47.09:879][  0]LogWindows:    1. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.11.16-18.47.09:880][  0]LogWindows:    2. 'Intel(R) HD Graphics 5500' (P:0 D:0)
+[2017.11.16-18.47.09:880][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.11.16-18.47.09:881][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 5500
+[2017.11.16-18.47.09:881][  0]LogD3D11RHI:   Driver Version: 20.19.15.4531 (internal:20.19.15.4531, unified:20.19.15.4531)
+[2017.11.16-18.47.09:881][  0]LogD3D11RHI:      Driver Date: 9-29-2016
+[2017.11.16-18.47.09:881][  0]LogRHI: Texture pool is 1508 MB (70% of 2154 MB)
+[2017.11.16-18.47.09:906][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.16-18.47.10:417][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2017.11.16-18.47.10:556][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/z1hwa/Documents/GitHub/Project-Heave-Final/Intermediate/Shaders/WorkingDirectory/2912/).
+[2017.11.16-18.47.10:556][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/z1hwa/AppData/Local/Temp/UnrealShaderWorkingDir/518A95C7432138F59E96A5B1BA1210C4/'.
+[2017.11.16-18.47.10:582][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.16-18.47.25:037][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.16-18.47.25:251][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.16-18.47.25:387][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.16-18.47.25:470][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.16-18.47.25:592][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.16-18.47.25:684][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.16-18.47.25:764][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.16-18.47.25:854][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.16-18.47.25:970][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.16-18.47.26:044][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.16-18.47.26:124][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.16-18.47.26:204][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.16-18.47.26:267][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.16-18.47.26:334][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.16-18.47.26:462][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.16-18.47.26:462][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.16-18.47.26:679][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.16-18.47.26:864][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.16-18.47.27:076][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.16-18.47.27:133][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.16-18.47.27:240][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.16-18.47.27:333][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.16-18.47.27:433][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.16-18.47.27:562][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.16-18.47.27:562][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.16-18.47.29:993][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.16-18.47.31:217][  0]LogDerivedDataCache: Loaded boot cache 1.18s 78MB C:/Users/z1hwa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.16-18.47.31:217][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/z1hwa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.16-18.47.31:218][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/z1hwa/Documents/GitHub/Project-Heave-Final/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.16-18.47.31:218][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.16-18.47.31:218][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/z1hwa/Documents/GitHub/Project-Heave-Final/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.16-18.47.31:218][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.16-18.47.31:388][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.16-18.47.31:424][  0]LogDerivedDataCache: Using Local data cache path C:/Users/z1hwa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.16-18.47.31:618][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.16-18.47.31:715][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.16-18.47.31:854][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.16-18.47.31:866][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.16-18.47.42:515][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.16-18.47.45:651][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.16-18.47.45:819][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.16-18.47.45:825][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.16-18.47.45:825][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.16-18.47.45:825][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.16-18.47.45:825][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.16-18.47.47:569][  0]LogNetVersion: MyProject , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1490074681)
+[2017.11.16-18.47.50:568][  0]LogAssetRegistry: FAssetRegistry took 0.0524 seconds to start up
+[2017.11.16-18.48.02:575][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.503242 seconds
+[2017.11.16-18.48.02:634][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.16-18.48.02:635][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.11.16-18.48.02:635][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.16-18.48.02:878][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.16-18.48.48:325][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.16-18.48.48:383][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.16-18.48.50:565][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.16-18.48.52:812][  0]SourceControl: Source control is disabled
+[2017.11.16-18.48.52:822][  0]SourceControl: Source control is disabled
+[2017.11.16-18.48.52:966][  0]SourceControl: Source control is disabled
+[2017.11.16-18.48.53:237][  0]SourceControl: Source control is disabled
+[2017.11.16-18.48.56:486][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.16-18.48.56:990][  0]LogOcInput: OculusInput pre-init called
+[2017.11.16-18.48.59:060][  0]LogEngine: Initializing Engine...
+[2017.11.16-18.48.59:132][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.16-18.49.01:541][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.16-18.49.01:541][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.16-18.49.02:316][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.16-18.49.02:555][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-18.49.03:061][  0]LogInit: FAudioDevice initialized.
+[2017.11.16-18.49.03:451][  0]LogDerivedDataCache: Saved boot cache 0.39s 78MB C:/Users/z1hwa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.16-18.49.03:506][  0]LogInit: Texture streaming: Enabled
+[2017.11.16-18.49.04:027][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.16-18.49.06:411][  0]LogInit: Transaction tracking system initialized
+[2017.11.16-18.49.08:355][  0]BlueprintLog: New page: Editor Load
+[2017.11.16-18.49.14:265][  0]LocalizationService: Localization service is disabled
+[2017.11.16-18.49.17:460][  0]LogConsoleResponse: Display: 
+[2017.11.16-18.49.25:823][  0]LogFileCache: Scanning file cache for directory 'C:/Users/z1hwa/Documents/GitHub/Project-Heave-Final/Content/' took 0.04s
+[2017.11.16-18.49.25:823][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.16-18.49.25:823][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.16-18.49.25:862][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.16-18.49.34:469][  0]SourceControl: Source control is disabled
+[2017.11.16-18.49.34:652][  0]Cmd: MAP LOAD FILE="../../../../../../Users/z1hwa/Documents/GitHub/Project-Heave-Final/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.16-18.49.34:652][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/z1hwa/Documents/GitHub/Project-Heave-Final/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.16-18.49.34:664][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.16-18.49.34:824][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 160.386ms to complete.
+[2017.11.16-18.49.34:824][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.214
+[2017.11.16-18.49.38:192][  0]LogCollectionManager: Loaded 0 collections in 0.033113 seconds
+[2017.11.16-18.49.38:488][  0]LogFileCache: Scanning file cache for directory 'C:/Users/z1hwa/Documents/GitHub/Project-Heave-Final/Saved/Collections/' took 0.01s
+[2017.11.16-18.49.38:488][  0]LogFileCache: Scanning file cache for directory 'C:/Users/z1hwa/Documents/GitHub/Project-Heave-Final/Content/Developers/z1hwa/Collections/' took 0.01s
+[2017.11.16-18.49.38:488][  0]LogFileCache: Scanning file cache for directory 'C:/Users/z1hwa/Documents/GitHub/Project-Heave-Final/Content/Collections/' took 0.01s
+[2017.11.16-18.49.38:488][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.16-18.49.38:531][  0]LogContentBrowser: Native class hierarchy populated in 0.0364 seconds. Added 2363 classes and 519 folders.
+[2017.11.16-18.49.38:688][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.11.16-18.49.42:736][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.11.16-18.49.43:038][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.11.16-18.49.45:515][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.11.16-18.49.45:515][  0]LogLoad: (Engine Initialization) Total time: 210.67 seconds
+[2017.11.16-18.49.45:515][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.16-18.49.45:516][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.16-18.49.46:554][  0]LogContentStreaming: Texture pool size now 400 MB
+[2017.11.16-18.49.46:900][  0]LogSlate: Took 0.074772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.16-18.49.46:982][  0]LogSlate: Took 0.076307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.16-18.49.47:167][  0]LogSlate: Took 0.090037 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.16-18.49.48:642][  0]LogRenderer: Reallocating scene render targets to support 820x324 Format 9 NumSamples 1 (Frame:1).
+[2017.11.16-18.49.52:121][  2]LogSlate: Took 0.028688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.16-18.49.53:085][  5]LogAssetRegistry: Asset discovery search completed in 122.5399 seconds
+[2017.11.16-18.49.53:116][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.16-18.49.53:116][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000177 seconds (updated 0 objects)
+[2017.11.16-18.49.55:761][ 12]LogSlate: Took 0.000713 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.16-18.50.12:383][ 69]LogLinker: Warning: Can't resolve asset name
+[2017.11.16-18.50.15:723][261]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.16-18.50.16:592][261]LogSlate: Took 0.000647 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.16-18.50.29:154][261]LogAIModule: Creating AISystem for world level2
+[2017.11.16-18.50.30:694][261]Cmd: MAP LOAD FILE="../../../../../../Users/z1hwa/Documents/GitHub/Project-Heave-Final/Content/ThirdPersonBP/Maps/level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.16-18.50.30:695][261]LightingResults: New page: Lighting Build
+[2017.11.16-18.50.30:783][261]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2017.11.16-18.50.30:785][261]LoadErrors: New page: Loading map: level2.umap
+[2017.11.16-18.50.30:822][261]MapCheck: New page: Map Check
+[2017.11.16-18.50.30:822][261]LightingResults: New page: Lighting Build
+[2017.11.16-18.50.31:437][261]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.16-18.50.31:686][261]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.16-18.50.31:773][261]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 87.371ms to complete.
+[2017.11.16-18.50.31:773][261]LogFileHelpers: Loading map 'level2' took 1.103
+[2017.11.16-18.52.29:261][250]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-18.52.29:872][250]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.52.29:911][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-18.52.29:998][250]PIE: New page: PIE session: level2 (Nov 16, 2017, 8:52:29 AM)
+[2017.11.16-18.52.29:998][250]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-18.52.30:150][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151625s)
+[2017.11.16-18.52.30:152][250]LogAIModule: Creating AISystem for world level2
+[2017.11.16-18.52.30:153][250]LogPlayLevel: PIE: World Init took: (0.002628s)
+[2017.11.16-18.52.30:154][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.155379s)
+[2017.11.16-18.52.30:213][250]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-18.52.30:234][250]LogInit: FAudioDevice initialized.
+[2017.11.16-18.52.30:327][250]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-18.52.30:437][250]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-13.52.30
+[2017.11.16-18.52.30:533][250]LogWorld: Bringing up level for play took: 0.129651
+[2017.11.16-18.52.30:845][250]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2017.11.16-18.52.30:970][250]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.178
+[2017.11.16-18.52.31:001][250]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.52.36:593][524]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.52.36:684][524]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.52.38:625][624]LogRenderer: Reallocating scene render targets to support 1060x508 Format 9 NumSamples 1 (Frame:11).
+[2017.11.16-18.52.38:740][625]LogRenderer: Reallocating scene render targets to support 1280x680 Format 9 NumSamples 1 (Frame:13).
+[2017.11.16-18.52.39:327][655]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-18.52.39:351][655]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.52.39:351][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-18.52.39:351][655]PIE: New page: PIE session: level2 (Nov 16, 2017, 8:52:39 AM)
+[2017.11.16-18.52.39:351][655]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-18.52.39:393][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042125s)
+[2017.11.16-18.52.39:395][655]LogAIModule: Creating AISystem for world level2
+[2017.11.16-18.52.39:395][655]LogPlayLevel: PIE: World Init took: (0.001641s)
+[2017.11.16-18.52.39:396][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.044519s)
+[2017.11.16-18.52.39:418][655]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-18.52.39:436][655]LogInit: FAudioDevice initialized.
+[2017.11.16-18.52.39:468][655]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-18.52.39:474][655]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-13.52.39
+[2017.11.16-18.52.39:475][655]LogWorld: Bringing up level for play took: 0.006261
+[2017.11.16-18.52.39:477][655]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.686
+[2017.11.16-18.52.39:477][655]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.53.12:877][399]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.53.12:937][399]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.53.59:020][147]Cmd: SELECT NONE
+[2017.11.16-18.54.01:649][293]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-18.54.01:676][293]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.54.01:677][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-18.54.01:677][293]PIE: New page: PIE session: level2 (Nov 16, 2017, 8:54:01 AM)
+[2017.11.16-18.54.01:677][293]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-18.54.01:720][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042862s)
+[2017.11.16-18.54.01:721][293]LogAIModule: Creating AISystem for world level2
+[2017.11.16-18.54.01:721][293]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2017.11.16-18.54.01:722][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.044696s)
+[2017.11.16-18.54.01:748][293]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-18.54.01:776][293]LogInit: FAudioDevice initialized.
+[2017.11.16-18.54.01:812][293]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-18.54.01:818][293]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-13.54.01
+[2017.11.16-18.54.01:819][293]LogWorld: Bringing up level for play took: 0.006047
+[2017.11.16-18.54.01:821][293]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 1.03
+[2017.11.16-18.54.01:821][293]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.54.03:214][348]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.54.03:264][348]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.54.44:030][772]Cmd: SELECT NONE
+[2017.11.16-18.55.08:269][205]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-18.55.08:293][205]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.55.08:293][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-18.55.08:293][205]PIE: New page: PIE session: level2 (Nov 16, 2017, 8:55:08 AM)
+[2017.11.16-18.55.08:293][205]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-18.55.08:329][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036502s)
+[2017.11.16-18.55.08:330][205]LogAIModule: Creating AISystem for world level2
+[2017.11.16-18.55.08:331][205]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2017.11.16-18.55.08:331][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.038129s)
+[2017.11.16-18.55.08:349][205]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-18.55.08:369][205]LogInit: FAudioDevice initialized.
+[2017.11.16-18.55.08:400][205]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-18.55.08:405][205]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-13.55.08
+[2017.11.16-18.55.08:406][205]LogWorld: Bringing up level for play took: 0.005932
+[2017.11.16-18.55.08:408][205]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.383
+[2017.11.16-18.55.08:408][205]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.55.58:911][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.55.58:964][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.56.00:719][ 46]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-18.56.00:748][ 46]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.56.00:748][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-18.56.00:749][ 46]PIE: New page: PIE session: level2 (Nov 16, 2017, 8:56:00 AM)
+[2017.11.16-18.56.00:749][ 46]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-18.56.00:799][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050046s)
+[2017.11.16-18.56.00:800][ 46]LogAIModule: Creating AISystem for world level2
+[2017.11.16-18.56.00:801][ 46]LogPlayLevel: PIE: World Init took: (0.001277s)
+[2017.11.16-18.56.00:801][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.052140s)
+[2017.11.16-18.56.00:839][ 46]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-18.56.00:864][ 46]LogInit: FAudioDevice initialized.
+[2017.11.16-18.56.00:901][ 46]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-18.56.00:907][ 46]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-13.56.00
+[2017.11.16-18.56.00:908][ 46]LogWorld: Bringing up level for play took: 0.007256
+[2017.11.16-18.56.00:910][ 46]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.119
+[2017.11.16-18.56.00:911][ 46]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.56.38:550][943]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.56.38:612][943]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.56.51:086][672]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-18.56.51:111][672]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.56.51:111][672]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-18.56.51:111][672]PIE: New page: PIE session: level2 (Nov 16, 2017, 8:56:51 AM)
+[2017.11.16-18.56.51:111][672]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-18.56.51:154][672]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043318s)
+[2017.11.16-18.56.51:155][672]LogAIModule: Creating AISystem for world level2
+[2017.11.16-18.56.51:156][672]LogPlayLevel: PIE: World Init took: (0.001520s)
+[2017.11.16-18.56.51:156][672]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.045434s)
+[2017.11.16-18.56.51:178][672]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-18.56.51:200][672]LogInit: FAudioDevice initialized.
+[2017.11.16-18.56.51:238][672]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-18.56.51:246][672]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-13.56.51
+[2017.11.16-18.56.51:247][672]LogWorld: Bringing up level for play took: 0.008272
+[2017.11.16-18.56.51:250][672]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.459
+[2017.11.16-18.56.51:250][672]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.58.25:895][442]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.58.25:964][442]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.58.27:423][521]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-18.58.27:468][521]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.58.27:468][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-18.58.27:468][521]PIE: New page: PIE session: level2 (Nov 16, 2017, 8:58:27 AM)
+[2017.11.16-18.58.27:468][521]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-18.58.27:526][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057103s)
+[2017.11.16-18.58.27:527][521]LogAIModule: Creating AISystem for world level2
+[2017.11.16-18.58.27:527][521]LogPlayLevel: PIE: World Init took: (0.001632s)
+[2017.11.16-18.58.27:528][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.059418s)
+[2017.11.16-18.58.27:557][521]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-18.58.27:590][521]LogInit: FAudioDevice initialized.
+[2017.11.16-18.58.27:632][521]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-18.58.27:641][521]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-13.58.27
+[2017.11.16-18.58.27:643][521]LogWorld: Bringing up level for play took: 0.009795
+[2017.11.16-18.58.27:647][521]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.855
+[2017.11.16-18.58.27:647][521]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.59.00:438][171]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.59.00:497][171]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.59.02:522][283]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-18.59.02:563][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-18.59.02:564][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-18.59.02:564][283]PIE: New page: PIE session: level2 (Nov 16, 2017, 8:59:02 AM)
+[2017.11.16-18.59.02:564][283]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-18.59.02:620][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055536s)
+[2017.11.16-18.59.02:622][283]LogAIModule: Creating AISystem for world level2
+[2017.11.16-18.59.02:622][283]LogPlayLevel: PIE: World Init took: (0.002079s)
+[2017.11.16-18.59.02:623][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.058262s)
+[2017.11.16-18.59.02:654][283]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-18.59.02:690][283]LogInit: FAudioDevice initialized.
+[2017.11.16-18.59.02:730][283]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-18.59.02:739][283]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-13.59.02
+[2017.11.16-18.59.02:740][283]LogWorld: Bringing up level for play took: 0.009745
+[2017.11.16-18.59.02:743][283]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.048
+[2017.11.16-18.59.02:744][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.00.16:491][ 47]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.00.16:551][ 47]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.00.18:731][168]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.00.18:761][168]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.00.18:762][168]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.00.18:762][168]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:00:18 AM)
+[2017.11.16-19.00.18:762][168]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.00.18:807][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045594s)
+[2017.11.16-19.00.18:808][168]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.00.18:809][168]LogPlayLevel: PIE: World Init took: (0.001428s)
+[2017.11.16-19.00.18:810][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.047685s)
+[2017.11.16-19.00.18:839][168]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.00.18:861][168]LogInit: FAudioDevice initialized.
+[2017.11.16-19.00.18:901][168]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.00.18:910][168]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.00.18
+[2017.11.16-19.00.18:911][168]LogWorld: Bringing up level for play took: 0.008874
+[2017.11.16-19.00.18:914][168]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.122
+[2017.11.16-19.00.18:914][168]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.00.44:275][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.00.44:341][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.00.45:906][556]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.00.45:946][556]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.00.45:946][556]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.00.45:947][556]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:00:45 AM)
+[2017.11.16-19.00.45:947][556]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.00.45:997][556]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050489s)
+[2017.11.16-19.00.45:999][556]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.00.45:999][556]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2017.11.16-19.00.46:000][556]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.052727s)
+[2017.11.16-19.00.46:029][556]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.00.46:056][556]LogInit: FAudioDevice initialized.
+[2017.11.16-19.00.46:095][556]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.00.46:103][556]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.00.46
+[2017.11.16-19.00.46:105][556]LogWorld: Bringing up level for play took: 0.008625
+[2017.11.16-19.00.46:107][556]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.684
+[2017.11.16-19.00.46:108][556]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.01.18:385][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.01.18:454][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.01.20:166][296]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.01.20:190][296]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.01.20:190][296]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.01.20:191][296]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:01:20 AM)
+[2017.11.16-19.01.20:191][296]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.01.20:233][296]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042510s)
+[2017.11.16-19.01.20:235][296]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.01.20:235][296]LogPlayLevel: PIE: World Init took: (0.002077s)
+[2017.11.16-19.01.20:236][296]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.045704s)
+[2017.11.16-19.01.20:265][296]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.01.20:289][296]LogInit: FAudioDevice initialized.
+[2017.11.16-19.01.20:322][296]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.01.20:327][296]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.01.20
+[2017.11.16-19.01.20:328][296]LogWorld: Bringing up level for play took: 0.005489
+[2017.11.16-19.01.20:329][296]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.462
+[2017.11.16-19.01.20:330][296]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.02.42:046][575]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.02.42:100][575]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.02.43:654][661]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.02.43:695][661]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.02.43:696][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.02.43:696][661]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:02:43 AM)
+[2017.11.16-19.02.43:696][661]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.02.43:748][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052241s)
+[2017.11.16-19.02.43:750][661]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.02.43:750][661]LogPlayLevel: PIE: World Init took: (0.001660s)
+[2017.11.16-19.02.43:750][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.054530s)
+[2017.11.16-19.02.43:780][661]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.02.43:811][661]LogInit: FAudioDevice initialized.
+[2017.11.16-19.02.43:848][661]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.02.43:857][661]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.02.43
+[2017.11.16-19.02.43:858][661]LogWorld: Bringing up level for play took: 0.009248
+[2017.11.16-19.02.43:862][661]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 1.071
+[2017.11.16-19.02.43:862][661]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.09.26:682][533]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.09.26:744][533]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.09.27:817][589]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.09.27:863][589]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.09.27:864][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.09.27:864][589]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:09:27 AM)
+[2017.11.16-19.09.27:864][589]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.09.27:918][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053478s)
+[2017.11.16-19.09.27:919][589]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.09.27:919][589]LogPlayLevel: PIE: World Init took: (0.001617s)
+[2017.11.16-19.09.27:920][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.055924s)
+[2017.11.16-19.09.27:950][589]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.09.27:983][589]LogInit: FAudioDevice initialized.
+[2017.11.16-19.09.28:023][589]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.09.28:032][589]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.09.28
+[2017.11.16-19.09.28:033][589]LogWorld: Bringing up level for play took: 0.009707
+[2017.11.16-19.09.28:037][589]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.754
+[2017.11.16-19.09.28:037][589]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.09.48:769][647]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.09.48:825][647]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.09.50:829][758]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.09.50:880][758]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.09.50:880][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.09.50:880][758]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:09:50 AM)
+[2017.11.16-19.09.50:880][758]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.09.50:930][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049973s)
+[2017.11.16-19.09.50:931][758]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.09.50:932][758]LogPlayLevel: PIE: World Init took: (0.001370s)
+[2017.11.16-19.09.50:932][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.052162s)
+[2017.11.16-19.09.50:965][758]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.09.50:996][758]LogInit: FAudioDevice initialized.
+[2017.11.16-19.09.51:038][758]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.09.51:047][758]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.09.51
+[2017.11.16-19.09.51:048][758]LogWorld: Bringing up level for play took: 0.009575
+[2017.11.16-19.09.51:051][758]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.26
+[2017.11.16-19.09.51:052][758]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.14.46:757][972]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.14.46:814][972]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.14.48:709][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.14.48:756][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.14.48:756][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.14.48:756][ 76]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:14:48 AM)
+[2017.11.16-19.14.48:756][ 76]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.14.48:820][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062901s)
+[2017.11.16-19.14.48:821][ 76]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.14.48:822][ 76]LogPlayLevel: PIE: World Init took: (0.001733s)
+[2017.11.16-19.14.48:822][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.065265s)
+[2017.11.16-19.14.48:854][ 76]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.14.48:886][ 76]LogInit: FAudioDevice initialized.
+[2017.11.16-19.14.48:927][ 76]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.14.48:936][ 76]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.14.48
+[2017.11.16-19.14.48:938][ 76]LogWorld: Bringing up level for play took: 0.009965
+[2017.11.16-19.14.48:942][ 76]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.15
+[2017.11.16-19.14.48:942][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.16.09:408][109]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.16.09:476][109]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.16.28:673][189]Cmd: SELECT NONE
+[2017.11.16-19.16.35:595][602]Cmd: SELECT NONE
+[2017.11.16-19.16.35:697][608]Cmd: SELECT NONE
+[2017.11.16-19.16.37:047][689]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.16.37:101][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.16.37:102][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.16.37:102][689]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:16:37 AM)
+[2017.11.16-19.16.37:102][689]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.16.37:153][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050725s)
+[2017.11.16-19.16.37:155][689]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.16.37:155][689]LogPlayLevel: PIE: World Init took: (0.001855s)
+[2017.11.16-19.16.37:155][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.053210s)
+[2017.11.16-19.16.37:177][689]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.16.37:201][689]LogInit: FAudioDevice initialized.
+[2017.11.16-19.16.37:234][689]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.16.37:239][689]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.16.37
+[2017.11.16-19.16.37:240][689]LogWorld: Bringing up level for play took: 0.006255
+[2017.11.16-19.16.37:242][689]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.451
+[2017.11.16-19.16.37:243][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.26.09:255][591]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.26.09:320][591]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.26.13:210][795]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.26.13:250][795]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.26.13:250][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.26.13:251][795]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:26:13 AM)
+[2017.11.16-19.26.13:251][795]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.26.13:304][795]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053263s)
+[2017.11.16-19.26.13:306][795]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.26.13:307][795]LogPlayLevel: PIE: World Init took: (0.002231s)
+[2017.11.16-19.26.13:307][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.056363s)
+[2017.11.16-19.26.13:337][795]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.26.13:370][795]LogInit: FAudioDevice initialized.
+[2017.11.16-19.26.13:406][795]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.26.13:415][795]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.26.13
+[2017.11.16-19.26.13:416][795]LogWorld: Bringing up level for play took: 0.009624
+[2017.11.16-19.26.13:420][795]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.629
+[2017.11.16-19.26.13:420][795]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.26.23:015][177]Cmd: LevelEditor.ToggleImmersive
+[2017.11.16-19.28.09:844][623]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.28.09:938][623]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.28.10:079][626]Cmd: SELECT NONE
+[2017.11.16-19.28.33:355][ 19]Cmd: SELECT NONE
+[2017.11.16-19.28.36:137][185]Cmd: SELECT NONE
+[2017.11.16-19.28.44:565][671]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.28.44:598][671]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.28.44:598][671]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.28.44:598][671]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:28:44 AM)
+[2017.11.16-19.28.44:598][671]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.28.44:644][671]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045623s)
+[2017.11.16-19.28.44:645][671]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.28.44:646][671]LogPlayLevel: PIE: World Init took: (0.001516s)
+[2017.11.16-19.28.44:646][671]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.047776s)
+[2017.11.16-19.28.44:675][671]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.28.44:702][671]LogInit: FAudioDevice initialized.
+[2017.11.16-19.28.44:737][671]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.28.44:745][671]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.28.44
+[2017.11.16-19.28.44:746][671]LogWorld: Bringing up level for play took: 0.007933
+[2017.11.16-19.28.44:748][671]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.043
+[2017.11.16-19.28.44:749][671]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.29.15:167][922]Cmd: LevelEditor.ToggleImmersive
+[2017.11.16-19.29.46:678][518]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.29.46:775][518]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.29.48:589][612]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh28)
+[2017.11.16-19.30.02:670][397]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Linear_Stair_StaticMesh28)
+[2017.11.16-19.34.22:506][490]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2017.11.16-19.34.25:213][644]Cmd: SELECT NONE
+[2017.11.16-19.34.30:251][929]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.34.30:280][929]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.34.30:281][929]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.34.30:281][929]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:34:30 AM)
+[2017.11.16-19.34.30:281][929]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.34.30:321][929]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039607s)
+[2017.11.16-19.34.30:323][929]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.34.30:323][929]LogPlayLevel: PIE: World Init took: (0.002338s)
+[2017.11.16-19.34.30:323][929]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.042602s)
+[2017.11.16-19.34.30:346][929]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.34.30:371][929]LogInit: FAudioDevice initialized.
+[2017.11.16-19.34.30:406][929]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.34.30:412][929]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.34.30
+[2017.11.16-19.34.30:413][929]LogWorld: Bringing up level for play took: 0.006320
+[2017.11.16-19.34.30:415][929]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.376
+[2017.11.16-19.34.30:415][929]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.34.32:743][ 49]Cmd: LevelEditor.ToggleImmersive
+[2017.11.16-19.35.04:013][896]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.35.04:106][896]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.35.06:651][ 45]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.35.06:674][ 45]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.35.06:674][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.35.06:674][ 45]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:35:06 AM)
+[2017.11.16-19.35.06:674][ 45]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.35.06:711][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036230s)
+[2017.11.16-19.35.06:712][ 45]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.35.06:712][ 45]LogPlayLevel: PIE: World Init took: (0.001414s)
+[2017.11.16-19.35.06:712][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.038126s)
+[2017.11.16-19.35.06:739][ 45]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.35.06:757][ 45]LogInit: FAudioDevice initialized.
+[2017.11.16-19.35.06:795][ 45]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.35.06:800][ 45]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.35.06
+[2017.11.16-19.35.06:801][ 45]LogWorld: Bringing up level for play took: 0.005835
+[2017.11.16-19.35.06:803][ 45]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.011
+[2017.11.16-19.35.06:803][ 45]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.35.24:055][ 25]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.35.24:110][ 25]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.35.26:034][135]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.35.26:057][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.35.26:057][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.35.26:058][135]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:35:26 AM)
+[2017.11.16-19.35.26:058][135]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.35.26:091][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033717s)
+[2017.11.16-19.35.26:093][135]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.35.26:093][135]LogPlayLevel: PIE: World Init took: (0.001578s)
+[2017.11.16-19.35.26:094][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.036030s)
+[2017.11.16-19.35.26:117][135]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.35.26:136][135]LogInit: FAudioDevice initialized.
+[2017.11.16-19.35.26:171][135]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.35.26:176][135]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.35.26
+[2017.11.16-19.35.26:177][135]LogWorld: Bringing up level for play took: 0.005524
+[2017.11.16-19.35.26:179][135]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.612
+[2017.11.16-19.35.26:180][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.37.14:112][133]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.37.14:170][133]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.37.16:092][244]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.37.16:118][244]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.37.16:119][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.37.16:119][244]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:37:16 AM)
+[2017.11.16-19.37.16:119][244]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.37.16:163][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043961s)
+[2017.11.16-19.37.16:164][244]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.37.16:165][244]LogPlayLevel: PIE: World Init took: (0.001695s)
+[2017.11.16-19.37.16:165][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.046300s)
+[2017.11.16-19.37.16:194][244]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.37.16:222][244]LogInit: FAudioDevice initialized.
+[2017.11.16-19.37.16:261][244]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.37.16:269][244]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.37.16
+[2017.11.16-19.37.16:270][244]LogWorld: Bringing up level for play took: 0.008335
+[2017.11.16-19.37.16:272][244]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.519
+[2017.11.16-19.37.16:272][244]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.38.08:359][300]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.38.08:411][300]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.38.14:603][666]Cmd: SELECT NONE
+[2017.11.16-19.38.16:636][788]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.38.16:661][788]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.38.16:661][788]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.38.16:661][788]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:38:16 AM)
+[2017.11.16-19.38.16:661][788]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.38.16:695][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034308s)
+[2017.11.16-19.38.16:697][788]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.38.16:697][788]LogPlayLevel: PIE: World Init took: (0.001383s)
+[2017.11.16-19.38.16:697][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.036329s)
+[2017.11.16-19.38.16:715][788]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.38.16:734][788]LogInit: FAudioDevice initialized.
+[2017.11.16-19.38.16:765][788]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.38.16:770][788]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.38.16
+[2017.11.16-19.38.16:771][788]LogWorld: Bringing up level for play took: 0.006117
+[2017.11.16-19.38.16:773][788]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.018
+[2017.11.16-19.38.16:773][788]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.38.28:278][465]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.38.28:332][465]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.41.01:362][561]LogEditorViewport: Clicking on Actor (LMB): KillZVolume (KillZVolume)
+[2017.11.16-19.41.03:835][693]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.41.03:890][693]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.41.03:890][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.41.03:890][693]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:41:03 AM)
+[2017.11.16-19.41.03:891][693]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.41.03:938][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047821s)
+[2017.11.16-19.41.03:940][693]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.41.03:940][693]LogPlayLevel: PIE: World Init took: (0.001691s)
+[2017.11.16-19.41.03:941][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.050231s)
+[2017.11.16-19.41.03:962][693]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.41.03:981][693]LogInit: FAudioDevice initialized.
+[2017.11.16-19.41.04:016][693]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.41.04:022][693]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.41.04
+[2017.11.16-19.41.04:023][693]LogWorld: Bringing up level for play took: 0.005970
+[2017.11.16-19.41.04:025][693]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.766
+[2017.11.16-19.41.04:025][693]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.41.06:344][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.41.06:397][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.41.35:965][583]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.41.35:992][583]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.41.35:992][583]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.41.35:992][583]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:41:35 AM)
+[2017.11.16-19.41.35:992][583]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.41.36:026][583]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033916s)
+[2017.11.16-19.41.36:027][583]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.41.36:028][583]LogPlayLevel: PIE: World Init took: (0.001379s)
+[2017.11.16-19.41.36:028][583]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.035776s)
+[2017.11.16-19.41.36:044][583]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.41.36:063][583]LogInit: FAudioDevice initialized.
+[2017.11.16-19.41.36:098][583]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.41.36:103][583]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.41.36
+[2017.11.16-19.41.36:104][583]LogWorld: Bringing up level for play took: 0.005916
+[2017.11.16-19.41.36:106][583]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.686
+[2017.11.16-19.41.36:106][583]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.43.27:426][905]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.43.27:477][905]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.43.28:715][974]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.43.28:740][974]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.43.28:741][974]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.43.28:741][974]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:43:28 AM)
+[2017.11.16-19.43.28:741][974]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.43.28:778][974]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037083s)
+[2017.11.16-19.43.28:779][974]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.43.28:780][974]LogPlayLevel: PIE: World Init took: (0.001643s)
+[2017.11.16-19.43.28:780][974]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.039287s)
+[2017.11.16-19.43.28:806][974]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.43.28:825][974]LogInit: FAudioDevice initialized.
+[2017.11.16-19.43.28:863][974]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.43.28:869][974]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.43.28
+[2017.11.16-19.43.28:870][974]LogWorld: Bringing up level for play took: 0.006541
+[2017.11.16-19.43.28:872][974]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.081
+[2017.11.16-19.43.28:873][974]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.45.56:354][496]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.45.56:405][496]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.45.57:477][555]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.45.57:502][555]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.45.57:502][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.45.57:503][555]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:45:57 AM)
+[2017.11.16-19.45.57:503][555]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.45.57:545][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042594s)
+[2017.11.16-19.45.57:547][555]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.45.57:548][555]LogPlayLevel: PIE: World Init took: (0.002659s)
+[2017.11.16-19.45.57:549][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.046146s)
+[2017.11.16-19.45.57:576][555]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.45.57:596][555]LogInit: FAudioDevice initialized.
+[2017.11.16-19.45.57:629][555]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.45.57:635][555]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.45.57
+[2017.11.16-19.45.57:636][555]LogWorld: Bringing up level for play took: 0.005648
+[2017.11.16-19.45.57:638][555]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.846
+[2017.11.16-19.45.57:638][555]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.46.43:947][222]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.46.43:994][222]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.46.46:162][343]Cmd: SELECT NONE
+[2017.11.16-19.46.46:695][375]Cmd: SELECT NONE
+[2017.11.16-19.46.47:280][409]Cmd: SELECT NONE
+[2017.11.16-19.46.47:908][446]Cmd: SELECT NONE
+[2017.11.16-19.46.48:870][503]Cmd: SELECT NONE
+[2017.11.16-19.47.13:172][961]Cmd: SELECT NONE
+[2017.11.16-19.48.19:190][922]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.48.19:213][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.48.19:214][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.48.19:214][922]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:48:19 AM)
+[2017.11.16-19.48.19:214][922]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.48.19:250][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036553s)
+[2017.11.16-19.48.19:252][922]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.48.19:252][922]LogPlayLevel: PIE: World Init took: (0.001507s)
+[2017.11.16-19.48.19:252][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.038581s)
+[2017.11.16-19.48.19:272][922]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.48.19:292][922]LogInit: FAudioDevice initialized.
+[2017.11.16-19.48.19:324][922]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.48.19:330][922]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.48.19
+[2017.11.16-19.48.19:331][922]LogWorld: Bringing up level for play took: 0.006045
+[2017.11.16-19.48.19:333][922]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.542
+[2017.11.16-19.48.19:333][922]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.49.08:577][759]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.49.08:632][759]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.49.09:515][805]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.49.09:544][805]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.49.09:545][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.49.09:545][805]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:49:09 AM)
+[2017.11.16-19.49.09:545][805]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.49.09:591][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045762s)
+[2017.11.16-19.49.09:592][805]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.49.09:593][805]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2017.11.16-19.49.09:593][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.048056s)
+[2017.11.16-19.49.09:622][805]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.49.09:647][805]LogInit: FAudioDevice initialized.
+[2017.11.16-19.49.09:680][805]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.49.09:688][805]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.49.09
+[2017.11.16-19.49.09:689][805]LogWorld: Bringing up level for play took: 0.007898
+[2017.11.16-19.49.09:691][805]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.9
+[2017.11.16-19.49.09:691][805]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.50.29:971][387]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.50.30:017][387]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.50.31:002][441]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.50.31:028][441]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.50.31:028][441]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.50.31:029][441]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:50:31 AM)
+[2017.11.16-19.50.31:029][441]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.50.31:065][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035899s)
+[2017.11.16-19.50.31:066][441]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.50.31:067][441]LogPlayLevel: PIE: World Init took: (0.001997s)
+[2017.11.16-19.50.31:067][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.038772s)
+[2017.11.16-19.50.31:097][441]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.50.31:122][441]LogInit: FAudioDevice initialized.
+[2017.11.16-19.50.31:156][441]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.50.31:161][441]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.50.31
+[2017.11.16-19.50.31:162][441]LogWorld: Bringing up level for play took: 0.005971
+[2017.11.16-19.50.31:164][441]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.373
+[2017.11.16-19.50.31:164][441]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.58.38:455][232]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.58.38:513][232]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.59.33:410][519]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-19.59.33:435][519]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.59.33:435][519]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-19.59.33:435][519]PIE: New page: PIE session: level2 (Nov 16, 2017, 9:59:33 AM)
+[2017.11.16-19.59.33:435][519]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-19.59.33:476][519]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040776s)
+[2017.11.16-19.59.33:478][519]LogAIModule: Creating AISystem for world level2
+[2017.11.16-19.59.33:478][519]LogPlayLevel: PIE: World Init took: (0.001772s)
+[2017.11.16-19.59.33:479][519]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.043277s)
+[2017.11.16-19.59.33:498][519]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-19.59.33:521][519]LogInit: FAudioDevice initialized.
+[2017.11.16-19.59.33:557][519]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-19.59.33:563][519]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-14.59.33
+[2017.11.16-19.59.33:564][519]LogWorld: Bringing up level for play took: 0.006232
+[2017.11.16-19.59.33:566][519]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.775
+[2017.11.16-19.59.33:566][519]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.59.59:226][ 35]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-19.59.59:267][ 35]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.00.00:120][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-20.00.00:143][ 81]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.00.00:143][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-20.00.00:143][ 81]PIE: New page: PIE session: level2 (Nov 16, 2017, 10:00:00 AM)
+[2017.11.16-20.00.00:143][ 81]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-20.00.00:176][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032906s)
+[2017.11.16-20.00.00:177][ 81]LogAIModule: Creating AISystem for world level2
+[2017.11.16-20.00.00:178][ 81]LogPlayLevel: PIE: World Init took: (0.001630s)
+[2017.11.16-20.00.00:178][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.035249s)
+[2017.11.16-20.00.00:203][ 81]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-20.00.00:222][ 81]LogInit: FAudioDevice initialized.
+[2017.11.16-20.00.00:254][ 81]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-20.00.00:260][ 81]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-15.00.00
+[2017.11.16-20.00.00:261][ 81]LogWorld: Bringing up level for play took: 0.005826
+[2017.11.16-20.00.00:262][ 81]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.528
+[2017.11.16-20.00.00:263][ 81]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.02.11:290][346]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.02.11:354][346]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.02.15:527][590]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-20.02.15:551][590]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.02.15:551][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-20.02.15:551][590]PIE: New page: PIE session: level2 (Nov 16, 2017, 10:02:15 AM)
+[2017.11.16-20.02.15:551][590]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-20.02.15:588][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037047s)
+[2017.11.16-20.02.15:590][590]LogAIModule: Creating AISystem for world level2
+[2017.11.16-20.02.15:590][590]LogPlayLevel: PIE: World Init took: (0.001422s)
+[2017.11.16-20.02.15:590][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.039128s)
+[2017.11.16-20.02.15:616][590]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-20.02.15:637][590]LogInit: FAudioDevice initialized.
+[2017.11.16-20.02.15:669][590]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-20.02.15:675][590]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-15.02.15
+[2017.11.16-20.02.15:675][590]LogWorld: Bringing up level for play took: 0.005404
+[2017.11.16-20.02.15:677][590]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.886
+[2017.11.16-20.02.15:678][590]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.02.43:060][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.02.43:109][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.02.44:574][267]Cmd: SELECT NONE
+[2017.11.16-20.02.47:163][406]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-20.02.47:188][406]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.02.47:188][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-20.02.47:189][406]PIE: New page: PIE session: level2 (Nov 16, 2017, 10:02:47 AM)
+[2017.11.16-20.02.47:189][406]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-20.02.47:229][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040633s)
+[2017.11.16-20.02.47:231][406]LogAIModule: Creating AISystem for world level2
+[2017.11.16-20.02.47:232][406]LogPlayLevel: PIE: World Init took: (0.002103s)
+[2017.11.16-20.02.47:232][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.043493s)
+[2017.11.16-20.02.47:257][406]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-20.02.47:275][406]LogInit: FAudioDevice initialized.
+[2017.11.16-20.02.47:306][406]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-20.02.47:312][406]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-15.02.47
+[2017.11.16-20.02.47:313][406]LogWorld: Bringing up level for play took: 0.006038
+[2017.11.16-20.02.47:314][406]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.524
+[2017.11.16-20.02.47:315][406]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.02.51:542][608]Cmd: LevelEditor.ToggleImmersive
+[2017.11.16-20.03.45:167][750]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.03.45:239][750]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.03.46:192][802]Cmd: SELECT NONE
+[2017.11.16-20.03.49:427][981]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-20.03.49:451][981]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.03.49:451][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-20.03.49:452][981]PIE: New page: PIE session: level2 (Nov 16, 2017, 10:03:49 AM)
+[2017.11.16-20.03.49:452][981]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-20.03.49:490][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038312s)
+[2017.11.16-20.03.49:491][981]LogAIModule: Creating AISystem for world level2
+[2017.11.16-20.03.49:492][981]LogPlayLevel: PIE: World Init took: (0.001672s)
+[2017.11.16-20.03.49:492][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.040640s)
+[2017.11.16-20.03.49:516][981]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-20.03.49:535][981]LogInit: FAudioDevice initialized.
+[2017.11.16-20.03.49:566][981]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-20.03.49:572][981]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-15.03.49
+[2017.11.16-20.03.49:572][981]LogWorld: Bringing up level for play took: 0.006088
+[2017.11.16-20.03.49:574][981]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.783
+[2017.11.16-20.03.49:575][981]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.03.56:706][332]Cmd: LevelEditor.ToggleImmersive
+[2017.11.16-20.07.58:945][224]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.07.59:022][224]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.08.00:178][287]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-20.08.00:204][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.08.00:204][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-20.08.00:204][287]PIE: New page: PIE session: level2 (Nov 16, 2017, 10:08:00 AM)
+[2017.11.16-20.08.00:204][287]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-20.08.00:241][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036397s)
+[2017.11.16-20.08.00:243][287]LogAIModule: Creating AISystem for world level2
+[2017.11.16-20.08.00:243][287]LogPlayLevel: PIE: World Init took: (0.002033s)
+[2017.11.16-20.08.00:244][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.039319s)
+[2017.11.16-20.08.00:271][287]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-20.08.00:292][287]LogInit: FAudioDevice initialized.
+[2017.11.16-20.08.00:327][287]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-20.08.00:333][287]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-15.08.00
+[2017.11.16-20.08.00:334][287]LogWorld: Bringing up level for play took: 0.005999
+[2017.11.16-20.08.00:336][287]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.456
+[2017.11.16-20.08.00:336][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.10.50:625][428]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.10.50:672][428]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.10.52:271][518]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint2)
+[2017.11.16-20.11.01:347][ 49]Cmd: SELECT NONE
+[2017.11.16-20.11.03:463][176]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-20.11.03:505][176]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.11.03:505][176]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-20.11.03:505][176]PIE: New page: PIE session: level2 (Nov 16, 2017, 10:11:03 AM)
+[2017.11.16-20.11.03:506][176]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-20.11.03:541][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035263s)
+[2017.11.16-20.11.03:543][176]LogAIModule: Creating AISystem for world level2
+[2017.11.16-20.11.03:543][176]LogPlayLevel: PIE: World Init took: (0.001727s)
+[2017.11.16-20.11.03:544][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.037666s)
+[2017.11.16-20.11.03:564][176]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-20.11.03:585][176]LogInit: FAudioDevice initialized.
+[2017.11.16-20.11.03:621][176]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-20.11.03:626][176]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-15.11.03
+[2017.11.16-20.11.03:627][176]LogWorld: Bringing up level for play took: 0.005519
+[2017.11.16-20.11.03:629][176]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.838
+[2017.11.16-20.11.03:629][176]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.16.31:018][229]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.16.31:066][229]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.16.32:669][319]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-20.16.32:694][319]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.16.32:694][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-20.16.32:694][319]PIE: New page: PIE session: level2 (Nov 16, 2017, 10:16:32 AM)
+[2017.11.16-20.16.32:694][319]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-20.16.32:730][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035279s)
+[2017.11.16-20.16.32:731][319]LogAIModule: Creating AISystem for world level2
+[2017.11.16-20.16.32:732][319]LogPlayLevel: PIE: World Init took: (0.001852s)
+[2017.11.16-20.16.32:732][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.037927s)
+[2017.11.16-20.16.32:759][319]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-20.16.32:780][319]LogInit: FAudioDevice initialized.
+[2017.11.16-20.16.32:816][319]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-20.16.32:821][319]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-15.16.32
+[2017.11.16-20.16.32:822][319]LogWorld: Bringing up level for play took: 0.005820
+[2017.11.16-20.16.32:824][319]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 0.033
+[2017.11.16-20.16.32:824][319]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.16.35:135][437]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.16.35:187][437]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.22.26:740][335]Cmd: SELECT NONE
+[2017.11.16-20.22.27:858][385]LogTemp: Repeating last play command: Selected Viewport
+[2017.11.16-20.22.27:888][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.22.27:889][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.16-20.22.27:889][385]PIE: New page: PIE session: level2 (Nov 16, 2017, 10:22:27 AM)
+[2017.11.16-20.22.27:889][385]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_level2
+[2017.11.16-20.22.27:929][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039620s)
+[2017.11.16-20.22.27:930][385]LogAIModule: Creating AISystem for world level2
+[2017.11.16-20.22.27:930][385]LogPlayLevel: PIE: World Init took: (0.001710s)
+[2017.11.16-20.22.27:931][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/level2.level2 to /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 (0.041988s)
+[2017.11.16-20.22.27:953][385]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.16-20.22.27:976][385]LogInit: FAudioDevice initialized.
+[2017.11.16-20.22.28:008][385]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2017.11.16-20.22.28:013][385]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_level2.level2 up for play (max tick rate 60) at 2017.11.16-15.22.28
+[2017.11.16-20.22.28:014][385]LogWorld: Bringing up level for play took: 0.005979
+[2017.11.16-20.22.28:016][385]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_level2 -0.775
+[2017.11.16-20.22.28:017][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.22.37:624][945]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.22.37:668][945]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2' with GeneratedClass '/Game/ThirdPersonBP/Maps/level2.level2_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/level2.level2:PersistentLevel.level2'
+[2017.11.16-20.22.42:237][214]Cmd: SELECT NONE
+[2017.11.16-20.23.02:674][915]Cmd: SELECT NONE
+[2017.11.16-20.23.10:850][226]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2017.11.16-20.23.12:074][226]LogSlate: Took 0.040257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.16-20.23.12:536][227]LogSlate: Took 0.032062 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.16-20.38.42:084][161]LogHttp: Warning: 000002A27B72E380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.11.16-20.38.42:085][161]LogHttp: Warning: 000002A27B72E380: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2a1a4a83fb8 [can pipeline])
+[2017.11.16-20.38.42:085][161]LogHttp: Warning: 000002A27B72E380: libcurl info message cache 1 (Re-using existing connection! (#45) with host datarouter.ol.epicgames.com)
+[2017.11.16-20.38.42:085][161]LogHttp: Warning: 000002A27B72E380: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.225.81.108) port 443 (#45))
+[2017.11.16-20.38.42:085][161]LogHttp: Warning: 000002A27B72E380: libcurl info message cache 3 (upload completely sent off: 5473 out of 5473 bytes)
+[2017.11.16-20.38.42:085][161]LogHttp: Warning: 000002A27B72E380: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2017.11.16-20.38.42:085][161]LogHttp: Warning: 000002A27B72E380: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2017.11.16-20.38.42:085][161]LogHttp: Warning: 000002A27B72E380: libcurl info message cache 6 (Closing connection 45)
+[2017.11.16-20.38.42:085][161]LogHttp: Warning: 000002A27B72E380: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B03430092-470C-8C1A-98FE-6BB180DCAA7F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.0-3709383%2B%2B%2BUE4%2BRelease-4.18&UserID=33cc274f4a77bc06b0d9239a10b09ff6%7Ccef429f6fe6c4866b4a1265aaf67d156%7C00332156-98b5-4ac3-b05b-537eb3e74e2f&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2017.11.16-20.38.42:085][161]LogHttp: Warning: 000002A27B72E380: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.11.16-20.38.42:085][161]LogHttp: Warning: 000002A27B72E380: libcurl info message cache 9 (Closing connection 46)
